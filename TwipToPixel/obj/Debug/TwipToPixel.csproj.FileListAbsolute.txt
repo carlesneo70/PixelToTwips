@@ -1,0 +1,10 @@
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\bin\Debug\TwipToPixel.exe.config
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\bin\Debug\TwipToPixel.exe
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\bin\Debug\TwipToPixel.pdb
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.Form1.resources
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.Properties.Resources.resources
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.csproj.GenerateResource.cache
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.exe
+D:\DEVELOPMENT\C#\TwipToPixel\TwipToPixel\obj\Debug\TwipToPixel.pdb
